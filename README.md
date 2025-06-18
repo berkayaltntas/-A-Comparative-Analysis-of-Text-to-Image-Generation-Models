@@ -4,7 +4,7 @@ A comparative study of five pretrained Text-to-Image (T2I) GAN models — **DF-G
 
 ---
 
-## ✨ Sample Prompts
+## ✍️  Sample Prompts
 
 We evaluated all models with the following prompts:
 
